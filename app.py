@@ -35,8 +35,10 @@ the missing keywords with high accuracy
 resume:{text}
 description:{jd}
 
-I want the response in one single string having the structure
-{{"JD Match":"%","MissingKeywords:[]","Profile Summary":""}}
+I want the response as string having the structure given below
+JD Match : %,
+MissingKeywords : [],
+Profile Summary : 
 """
 
 ## streamlit app
